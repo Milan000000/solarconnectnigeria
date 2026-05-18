@@ -1,0 +1,8 @@
+{
+  "name": "SolarConnect Nigeria",
+  "description": "A modern lead generation platform connecting solar installation seekers with verified installers in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
